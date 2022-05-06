@@ -1,6 +1,6 @@
-# RANDOM CLASSIFICATION
-## AIM:
-To write a python program to perform random classification.
+### EX NO:01
+### DATE:
+# <p align="center">RANDOM CLASSIFICATION<p/>
 
 ## Equipments Required:
 1. Hardware – PCs
